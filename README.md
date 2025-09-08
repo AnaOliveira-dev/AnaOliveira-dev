@@ -7,6 +7,10 @@
            
 
     
+
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/5acf4d91-0d77-4064-ac83-91e40c43e1c6" />; <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/bdc06c26-bdff-47e8-ad01-6ec1753c6a9d" />
+
             
 - 🌱 I’m currently learning data science
 - 💬 Ask me about my goals and restarts in life.
